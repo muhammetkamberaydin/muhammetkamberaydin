@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammed-aydın-143184115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-aydın-143184115" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/muhammetkamberaydn?si=-ck_gqnoz11veuot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammetkamberaydn?si=-ck_gqnoz11veuot" height="30" width="40" /></a>
+<a href="https://youtube.com/@muhammetkamberaydn?si=-cK_GqNOZ11veUot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammetkamberaydn?si=-ck_gqnoz11veuot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
