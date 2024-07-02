@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3>A passionate frontend developer from Turkey</h3>
+
+<h6> 👀 I’m interested in everything related to software and technology.  </h6>
+<h6> 🎨  I love dealing with frontend and design </h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
