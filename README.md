@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed</h1>
+<h1>Hi 👋, I'm Muhammed AYDIN</h1>
 <h3>A passionate frontend developer from Turkey</h3>
 
 <h6> 👀 I’m interested in everything related to software and technology.  </h6>
